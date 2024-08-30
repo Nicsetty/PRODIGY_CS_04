@@ -21,11 +21,9 @@ This is a simple keylogger implemented in Python using the `pynput` library. It 
 
 
 ## Usage
-
-1.Run the script:
-  python keylogger.py
-2. The keylogger will start running and will log all keystrokes to keylog.txt.
-3. Press 'ESC' to stop the keylogger.
+1. Run the script: `python keylogger.py`
+2. The keylogger will start running and will log all keystrokes to `keylog.txt`.
+3. Press `ESC` to stop the keylogger.
 
 ## Notes
 This script is intended for educational purposes only. Use it responsibly and only on systems where you have permission.
