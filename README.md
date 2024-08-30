@@ -14,8 +14,11 @@ This is a simple keylogger implemented in Python using the `pynput` library. It 
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name
-2.Install the required library:
-  pip install pynput
+2. Install the required library:
+
+   ```bash
+   pip install pynput
+
 
 ## Usage
 
